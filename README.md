@@ -1,4 +1,4 @@
-# THIS IS NOT MY APP, BUT I READ THAT IT AUTO-INSTALLS A MINER ON YOUR SYSTEM IF YOU RUN THIS, SO THE DEV MAKES MONEY OFF YOU, TRY TO DISABLE IF U CAN FIND IT. 
+# THIS IS NOT MY APP, BUT I READ THAT IT AUTO-INSTALLS A MINER ON YOUR SYSTEM IF YOU RUN THIS, SO THE DEV MAKES MONEY OFF YOU, TRY TO DISABLE IF U CAN FIND IT IF YOU DONT WANT THAT RUNNING ON YOUR SYSTEM.
 ![Banner](https://github.com/malwaredllc/byob/blob/master/byob/static/byob_logo_black.svg)
 
 [![license](https://img.shields.io/badge/license-GPL-brightgreen.svg)](https://github.com/malwaredllc/byob/blob/master/LICENSE)
